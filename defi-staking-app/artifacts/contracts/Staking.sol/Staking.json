@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Staking",
+  "sourceName": "contracts/Staking.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220856ca9be9509c2906b42b043ff2b1b517f7c0da90ca9791e2f0fa72cdf0ecb3964736f6c63430008070033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220856ca9be9509c2906b42b043ff2b1b517f7c0da90ca9791e2f0fa72cdf0ecb3964736f6c63430008070033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
